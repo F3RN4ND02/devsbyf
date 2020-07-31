@@ -1,0 +1,6 @@
+{
+	"mongoURI": "mongodb+srv://fer123:fer123@devconnector.plmyv.mongodb.net/<dbname>?retryWrites=true&w=majority",
+	"jwtSecret": "mysecrettoken",
+	"githubClientId": "93746e1ab8327a219d44",
+	"githubSecret": "9abd09655d9c5b750decdb37f4bb73b176f94d34"
+}
